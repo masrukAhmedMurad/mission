@@ -1,0 +1,286 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+.top{
+background-image: linear-gradient(#122E99,#2370C8);
+width: 100%;
+height: 500px;
+
+
+}
+
+
+
+.navbar ul li{
+    float: left;
+    list-style: none;
+}
+
+
+.navbar ul li a{
+    text-decoration: none;
+    
+    font-size: 15px;
+    padding-left: 20px;
+    color: white;
+}
+
+
+.flex{
+    display: flex;
+}
+
+.navbar{
+    margin-left: 10%;
+    padding-top: 20px;
+
+}
+
+.logo{
+    width:18%;
+    color: white;
+}
+
+
+.menus{
+    width: 55%;
+}
+
+
+#search{
+    border-radius: 30px;
+    width: 180px;
+    height: 35px;padding-left: 10px;
+    margin-top: -10px;
+}
+
+.tcon{
+    position: relative;
+    top: 80px;
+    left: 10%;
+    width: 80%;
+}
+
+
+.tcon h1{
+
+    font-Weight:500px;
+    font-Size:72px;
+    line-height:85px;
+    color: white;
+    }
+    
+    
+    .tcon p{
+        position: relative;
+        top: 20px;
+    }
+
+    
+
+.linkbtn{
+    position: relative;
+    top: 50px;
+    text-decoration: none;
+    background-color: #2370C8;
+    border-radius: 30px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700px;
+
+}
+
+
+.service{
+    margin-top: 80px;
+}
+
+.service .scon{
+margin-left: 10%;
+margin-right: 10%;
+width: 80%;
+
+}
+
+.service .scon p{
+    margin-bottom: 20px;
+    color:#2370C8
+}
+
+
+
+.icon{
+   margin-top: -20px;
+   margin-left: 89%;
+    
+}
+
+.ic{
+    border-radius: 50%;
+   
+    padding:5px 10px;
+    margin-left: 10px;
+    
+}
+
+
+.scon .txticon .icon a{
+    text-decoration: none;
+
+}
+
+
+#icc{
+    background-color: lightgray;
+    
+}
+
+#icb{
+    background-color: #122E99;
+    
+}
+
+#icc a{
+    color: black;
+}
+
+#icb a{
+    color:white;
+}
+
+.boxes{
+    margin-top: 50px;
+}
+
+.boxes .box{
+
+            
+            margin-left: 22px;
+}
+
+.box1{
+
+ 
+    border: 3px solid#2370C8;
+    background-color: white;
+    width:325px;
+    height: auto;
+    
+}
+
+.box2{
+    background-color: #CFEAFF;
+    width:325px;
+    height: auto;
+}
+
+.box3{
+    background-color: #CFEAFF;
+    width:325px;
+    height: auto;
+    
+}
+
+.circle{
+    margin-top: 20px;
+    background-color: #85c4f5;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+
+.boxes .box .bcon{
+    margin-top: 20px;
+    
+}
+
+.boxes .box .bcon p{
+  margin-top: 10px;
+  margin-bottom: 50px;
+  padding: 10px 20px;
+}
+
+.about .image{
+    width: 400px;
+    height: 350px;
+    background-color: grey;
+}
+
+.abcon{
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    margin-top: 150px;
+}
+
+.abcon .txt #head{
+    padding-bottom: 15px;
+    margin-top: 20px;
+    color:  #2370C8;
+}
+
+.abcon .txt #des{
+    padding: 20px 0px;
+}
+
+.abcon .txt .linkbtn{
+    margin-top: -10px;
+}
+
+.linkbtn2{
+    position: relative;
+    top: 20px;
+    text-decoration: none;
+    background-color: #2370C8;
+    border-radius: 30px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700px;
+
+
+}
+
+#half1{
+    width: 40%;
+    margin-right: 12%;
+}
+
+#half2{
+    width: 40%;
+    
+}
+
+
+
+.down{
+
+background-color: #F2F9FF;
+width: auto;
+height: 330px;
+margin-top: 150px;
+padding: 20px;
+
+
+}
+
+.dcon{
+    margin-left: 10%;
+    padding-top: 20px;
+    border: 2px solid white;
+    margin-top: 50px;
+    margin-right: 10%;
+    padding-bottom: 40px;
+    
+
+}
+
+.dcircle{
+    margin-top: 20px;
+    background-color: #E7E7E7;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
